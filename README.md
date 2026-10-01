@@ -1,14 +1,18 @@
 # Opus 5.5 动效片库
 
+**旧版精选片库。** 这 22 条案例已纳入[统一效果图鉴](https://github.com/jinhanbuilds/opus-5-5-unified-gallery)。本仓库保留旧版页面、资料和固定来源版本，方便回看与引用。
+
+**系列入口：**[统一效果图鉴：看案例、找灵感](https://github.com/jinhanbuilds/opus-5-5-unified-gallery) · [动效词典：学会描述、写提示词](https://github.com/jinhanbuilds/motion-lexicon)
+
 **22 条可溯源的 Claude Opus 5.5 动效案例：15 个视频型动效、7 个交互网页。** 每条都能看演示、复制提示词，并回到原作者的出处。
 
-[在线打开片库（飞书秒搭，无需登录）](https://zcnofdpgpxud.feishuapp.com/app/app_17exzr8eka4/)
+[在线打开统一效果图鉴（飞书秒搭，无需登录）](https://zcnofdpgpxud.feishuapp.com/app/app_17exzr8eka4/)
 
 ![动效片库首页预览](docs/preview.png)
 
 ## 怎么用
 
-1. **先看效果：**打开上方在线片库，选择卡片进入详情。视频型演示可播放和拖动时间线；网页型演示可直接交互。
+1. **先看效果：**打开上方统一效果图鉴，按需选择「只看精选 22 条」，再进入卡片详情。视频型演示可播放和拖动时间线；网页型演示可直接交互。图鉴底部可进入旧版片库。
 2. **再取提示词：**详情页可复制提示词，也可以下载[提示词合集 PDF](docs/Opus55-22条动效提示词-小红书附件.pdf)，或阅读[文字版](prompts.md)。
 3. **本地打开：**在 GitHub 选择 **Code → Download ZIP**，解压后用 Chrome 打开根目录的 `index.html`。保留 `demos/` 文件夹与首页的相对位置。
 
@@ -32,3 +36,9 @@
 | `docs/preview.png` | 页面预览图 |
 
 整理：小红书 **AI伐木工**。如果发现来源、标注或演示有误，欢迎通过仓库 Issue 提供具体条目和原始出处。
+
+## 署名与使用范围
+
+**整理与制作：AI伐木工（金翰）。** 本项目自行制作且依法享有权利的新增部分保留相关权利，当前未授予新的统一开源许可。原作者的提示词、作品与外部依赖分别按各自许可或授权处理。
+
+具体边界见 [署名与使用说明](RIGHTS.md)，各条作者、来源和收录状态见 [提示词合集](prompts.md)。
